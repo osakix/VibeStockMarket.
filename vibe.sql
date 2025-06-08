@@ -1,0 +1,1 @@
+SELECT 'Welcome to VibeStockMarket!';
